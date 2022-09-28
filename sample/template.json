@@ -1,8 +1,15 @@
 {
-    "project":"Sample",
+    "project": "Sample",
     "layout": {
-        "header": true,
-        "pages": [],
+        "header": false,
+        "pages": [
+            {
+                "name": "Home",
+                "header": true,
+                "sub": [],
+                "footer": false
+            }
+        ],
         "footer": true
     }
 }
