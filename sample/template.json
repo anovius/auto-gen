@@ -8,6 +8,35 @@
                 "header": true,
                 "sub": [],
                 "footer": false
+            },
+            {
+                "name": "Auth",
+                "header": true,
+                "sub": [
+                    {
+                        "name": "Login"
+                    },
+                    {
+                        "name": "Register"
+                    }
+                ],
+                "footer": false
+            },
+            {
+                "name": "Dashboard",
+                "header": true,
+                "sub": [
+                    {
+                        "name": "Home"
+                    },
+                    {
+                        "name": "Profile"
+                    },
+                    {
+                        "name": "Settings"
+                    }
+                ],
+                "footer": false
             }
         ],
         "footer": true
