@@ -1,0 +1,8 @@
+{
+    "project":"Sample",
+    "layout": {
+        "header": true,
+        "pages": [],
+        "footer": true
+    }
+}
