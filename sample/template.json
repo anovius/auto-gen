@@ -14,7 +14,16 @@
                 "header": true,
                 "sub": [
                     {
-                        "name": "Login"
+                        "name": "Login",
+                        "sub": [
+                            {
+                                "name": "2FA",
+                                "header": true
+                            },
+                            {
+                                "name": "Forgot Password"
+                            }
+                        ]
                     },
                     {
                         "name": "Register"
