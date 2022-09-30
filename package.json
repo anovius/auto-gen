@@ -1,6 +1,6 @@
 {
   "name": "@anovius/auto-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool that helps to create react project with routing and folder structure ready",
   "main": "./lib/index.js",
   "directories": {
