@@ -1,5 +1,5 @@
 {
-  "name": "auto-gen",
+  "name": "@anovius/auto-gen",
   "version": "1.0.0",
   "description": "Tool that helps to create react project with routing and folder structure ready",
   "main": "./lib/index.js",
@@ -13,8 +13,6 @@
   "bin":{
     "autogen": "./bin/main.js"
   },
-
-  "preferGlobal": true,
 
   "keywords": [
     "react",

@@ -24,13 +24,13 @@ A CLI tool that take JSON file as input and create a react js project with compl
 Install this package using npm
 
 ```bash
-  npm install -g auto-gen
+  npm install -g @anovius/auto-gen
 ```
 
 This will create porject in current directory
 
 ```bash
-  auto-gen you_json_file.json
+  autogen you_json_file.json
 ```
 
 ## JSON file template
